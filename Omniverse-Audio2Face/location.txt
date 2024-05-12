@@ -1,0 +1,1 @@
+D:\Omniverse\ov\pkg\audio2face-2023.1.1\exts\omni.audio2face.exporter\omni\audio2face\exporter\scripts
