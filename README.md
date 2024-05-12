@@ -9,4 +9,4 @@ Meta human powered by a large language model
   <source src="https://github.com/deepakpillai/DigitalHuman/blob/main/video.mp4" type="video/mp4">
   Your browser does not support the video tag. Please update your browser to see the demo video
 </video>
-[Project Demo]([https://www.youtube.com/watch?v=yourVideoID](https://github.com/deepakpillai/DigitalHuman/blob/main/video.mp4))
+[Project Demo](https://github.com/deepakpillai/DigitalHuman/blob/main/video.mp4)
