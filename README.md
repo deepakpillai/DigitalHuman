@@ -7,5 +7,5 @@ Meta human powered by a large language model
 <b><u>Demo</u></b>
 <video width="640" height="360" controls>
   <source src="https://github.com/deepakpillai/DigitalHuman/blob/main/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  Your browser does not support the video tag. Please update your browser to see the demo video
 </video>
