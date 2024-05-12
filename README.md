@@ -12,3 +12,8 @@ Meta human powered by a large language model
   
 </video>
 
+<b><u>How it works!</u></b>
+The Python code uses speech_recognition lib to convert audio to text and the text is passed to LLM for inferencing. 
+Once we get the response from LLM, we pass it to NVIDIA OMNIVERSE AUDIO2FACE to calculate the face expressions through REST API
+Once the facial expression is calculated, we pass the values to unreal via UDP protocol. 
+The Unreal Metahuman blueprint is listening to a specific port, as as soon as it gets the data, we animate the Metahuman avatar
