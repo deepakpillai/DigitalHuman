@@ -1,1 +1,6 @@
-D:\Omniverse\ov\pkg\audio2face-2023.1.1\exts\omni.audio2face.exporter\omni\audio2face\exporter\scripts
+Replace the facsSolver.py on your exporter installed loaction path
+
+<Your drive>:\Omniverse\ov\pkg\audio2face-2023.1.1\exts\omni.audio2face.exporter\omni\audio2face\exporter\scripts
+
+More info can be found here
+https://www.youtube.com/watch?v=y1wVykdmJNM&list=WL&index=15
